@@ -1,5 +1,8 @@
 _repo: The-supernatural-in-early-Spanish-literature-studied-in-the-works-of-the-court-of-Alfonso-X-e__66716
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66716-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ph. D.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53931'
     url: http://www.gutenberg.org/2009/agents/53931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66716#The-supernatural-in-early-Spanish-literature-studied-in-the-works-of-the-court-of-Alfonso-X-e_
 gutenberg_issued: '2021-11-12'
 identifiers:
   gutenberg: '66716'
